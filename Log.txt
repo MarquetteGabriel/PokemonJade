@@ -1,0 +1,32 @@
+---------- Erreur de script : InterpreterBis ----------
+----- Type
+SyntaxError
+
+----- Message
+(eval):1:in `command_355'compile error
+(eval):1: syntax error
+set_ss(true, C, EV003, ID:062)
+                             ^
+
+----- Position dans InterpreterBis
+Ligne 448
+
+----- Backtrace
+Script : InterpreterBis | Ligne : 448 | Méthode : in `command_355'
+Script : Interpreter2 | Ligne : 215 | Méthode : in `eval'
+Script : InterpreterBis | Ligne : 448 | Méthode : in `command_355'
+Script : Interpreter2 | Ligne : 215 | Méthode : in `execute_command'
+Script : Interpreter1 | Ligne : 199 | Méthode : in `update'
+Script : Interpreter1 | Ligne : 113 | Méthode : in `loop'
+Script : Interpreter1 | Ligne : 204 | Méthode : in `update'
+Script : SceneMapSG | Ligne : 48 | Méthode : in `alias_update'
+Script : SceneMapSG | Ligne : 46 | Méthode : in `loop'
+Script : SceneMapSG | Ligne : 55 | Méthode : in `alias_update'
+Script : MAPPANEL | Ligne : 89 | Méthode : in `ts_update'
+Script : TempsJourNuit | Ligne : 237 | Méthode : in `follow_me_update'
+Script : FollowerPkm | Ligne : 96 | Méthode : in `update'
+Script : SceneMap | Ligne : 25 | Méthode : in `ts_main'
+Script : SceneMap | Ligne : 19 | Méthode : in `loop'
+Script : SceneMap | Ligne : 30 | Méthode : in `ts_main'
+Script : TempsJourNuit | Ligne : 230 | Méthode : in `main'
+Script : Main | Ligne : 39

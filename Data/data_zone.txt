@@ -1,0 +1,30 @@
+﻿#-------------------------------------------------------------
+# Fichier de données : Zones
+# Pokemon Script Project - Krosk
+# 08/05/08
+#-------------------------------------------------------------
+# $data_zone
+#   [Nom]
+#-------------------------------------------------------------
+
+$data_zone[1] = ["CRONAN BOURG", "Panneaux.png"]
+$data_zone[2] = ["ROUTE 1", "Panneaux.png"]
+$data_zone[3] = ["CAVE ISTLE", "Panneaux.png"]
+$data_zone[4] = ["EX CITÉ", "Panneaux.png"]
+$data_zone[5] = ["CENTRE ROUGE", "panel4.png"]
+$data_zone[6] = ["ROUTE VERTE", "panel1.png"]
+$data_zone[7] = ["CAVERNE ORANGE", "panel3.png"]
+$data_zone[8] = ["RIVE BLEUE", "panel2.png"]
+$data_zone[9] = ["ILOT BLANC", "panel5.png"]
+$data_zone[10] = ["CHEMIN SAFARI", "panel1.png"]
+$data_zone[11] = ["DEPART PSPEVOLVED", "Panneaux.png"]
+$data_zone[12] = ["ROUTE 1", "panel1.png"]
+$data_zone[13] = ["GROTTE ROCHEUSE", "panel3.png"]
+$data_zone[14] = ["ROUTE 2", "panel1.png"]
+$data_zone[15] = ["PAISIBLE", "panel5.png"]
+$data_zone[16] = ["FORET 8G", "panel2.png"]
+$data_zone[17] = ["PSPE CITY", "Panneaux.png"]
+
+
+
+
